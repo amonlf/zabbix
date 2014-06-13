@@ -846,7 +846,7 @@
                                     <type>0</type>
                                     <item>
                                         <host>Template Redis Auto Discovery</host>
-                                        <key>redis_stats[{#REDISPORT},used_memory]</key>
+                                        <key>redis_stats[{#REDISPORT},used_memory:]</key>
                                     </item>
                                 </graph_item>
                                 <graph_item>
